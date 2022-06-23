@@ -45,7 +45,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 ---
 
 <p align=center>
-<img height="22" src="https://komarev.com/ghpvc/?username=Bharatsharma19" alt="Bharatsharma19"/>
-<a href="https://github.com/Bharatsharma19">
+<img height="22" src="https://komarev.com/ghpvc/?username=viveksharma03" alt="Bharatsharma19"/>
+<a href="https://github.com/">
 </a>
 </p>
