@@ -18,7 +18,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 - 💞️ I’m looking to collaborate on Many projects that improves our community.
 
-- 📫 You can reach me via my email i.e, bharat8717sharma@gmail.com
+- 📫 You can reach me via my email i.e, snappersharmaji@gmail.com
 
 - ❤️ I love writing typescript, and building fun experiments on type-level
 
